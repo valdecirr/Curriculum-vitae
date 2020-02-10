@@ -15,16 +15,14 @@ CURRICULUM VITAE – AGOSTO 2020
 >- <b>Curso técnico:</b> Técnico de Segurança do Trabalho
 Instituição: Centro Politécnico Geraldo Werninghaus (CEPEG)
 	Cidade/Estado: Jaraguá do Sul - SC
-Período: 7/2005 – 6/2007
-<br>	
->[Diploma Técnico de Segurança](https://github.com/valdecirr/Curriculum-vitae/blob/master/TecnicoSeg.pdf)
+Período: 7/2005 – 6/2007<br>	
+> [Diploma Técnico de Segurança](https://github.com/valdecirr/Curriculum-vitae/blob/master/TecnicoSeg.pdf)
 
 
 >- <b>Curso técnico:</b> Técnico em Sistemas de Informação
 Instituição: Colégio NOVA ERA<br>Cidade/Estado: Jaraguá do Sul - SC
-Período: 9/2001 – 10/2003
-<br>	
->[Diploma Sistemas de Informação](https://github.com/valdecirr/Curriculum-vitae/blob/master/Curriculo.pdf)
+Período: 9/2001 – 10/2003<br>	
+> [Diploma Sistemas de Informação](https://github.com/valdecirr/Curriculum-vitae/blob/master/Curriculo.pdf)
 
 
 
