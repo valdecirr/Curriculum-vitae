@@ -44,15 +44,6 @@ Período: 9/2001 – 10/2003<p>
     - Ministrar treinamento de APT(Análise Prevencionista da Tarefa).
 
 ># 4. CURSOS COMPLEMENTERES 
-- Curso: Solid Works Módulo Peças
-	Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul - Sc
-Período: 02/06/2012 – 21/07/2012 
-
-- Curso: Solid Works Módulo Peças
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul - Sc
-Período: 02/06/2012 – 21/07/2012 
 
 - Curso:Solidworks Módulo Peças
 Instituição: Weg
