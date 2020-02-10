@@ -13,18 +13,20 @@ CURRICULUM VITAE – AGOSTO 2020
 ># 2. FORMAÇÃO 
 
 >- <b>Cursando:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
-Instituição: UNIASSELVI<br>Cidade/Estado: Jaraguá do Sul - SC<br>
-Período: 1ª/6 Fase Superior<br>	
+<b>Instituição:</b> UNIASSELVI<br>
+<b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
+<b>Período:</b> 1ª/6 Fase Superior<br>	
 
 >- <b>Curso técnico:</b> Técnico de Segurança do Trabalho<br>
-Instituição: Centro Politécnico Geraldo Werninghaus (CEPEG)<br>
-	Cidade/Estado: Jaraguá do Sul - SC<br>
-Período: 7/2005 – 6/2007<br>	
+<b>Instituição:</b> Centro Politécnico Geraldo Werninghaus (CEPEG)<br>
+	<b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
+<b>Período:</b> 7/2005 – 6/2007<br>	
 > [Diploma Técnico de Segurança](https://github.com/valdecirr/Curriculum-vitae/blob/master/TecnicoSeg.pdf)
 
 >- <b>Curso técnico:</b> Técnico em Sistemas de Informação<br>
-Instituição: Colégio NOVA ERA<br>Cidade/Estado: Jaraguá do Sul - SC<br>
-Período: 9/2001 – 10/2003<br>	
+<b>Instituição:</b> Colégio NOVA ERA<br>
+<b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
+<b>Período:</b> 9/2001 – 10/2003<br>	
 > [Diploma Sistemas de Informação](https://github.com/valdecirr/Curriculum-vitae/blob/master/Curriculo.pdf)
 
 	
