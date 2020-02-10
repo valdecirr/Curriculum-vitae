@@ -18,8 +18,8 @@ Instituição: Centro Politécnico Geraldo Werninghaus (CEPEG)
 Período: 7/2005 – 6/2007<br><br>
 >- <b>Curso técnico:</b> Técnico em Sistemas de Informação
 Instituição: Colégio NOVA ERA<br>Cidade/Estado: Jaraguá do Sul - SC
-Período: 9/2001 – 10/2003 
-
+Período: 9/2001 – 10/2003<br> 
+>![Diploma](Curriculo.pdf)
 
 	
 ># 3. EXPERIÊNCIA PROFISSIONAL 
