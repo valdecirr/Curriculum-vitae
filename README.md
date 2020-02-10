@@ -6,7 +6,7 @@ CURRICULUM VITAE – AGOSTO 2020
 > <b>Nome:</b> VALDECIR RENKAVESKI<br>
 > <b>Nascimento:</b> 10/09/1981 – Jaraguá do Sul – SC<br>
 > <b>Endereço Residencial:</b> Rua José Moreira – 383 – João Pessoa – Jaraguá do Sul - SC<br>
-> <b>Telefone:</b> (47) 884795475<br>
+> <b>Telefone:</b> (47) 984795475<br>
 > <b>E-mail:</b> valdecirrk@gmail.com
 	
 
@@ -15,7 +15,7 @@ CURRICULUM VITAE – AGOSTO 2020
 >- <b>Cursando:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
 <b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
-<b>Período:</b> 1ª/6 Fase Superior<br>	
+<b>Período:</b> 1ª/6ª Fase Superior<br>	
 
 >- <b>Curso técnico:</b> Técnico de Segurança do Trabalho<br>
 <b>Instituição:</b> Centro Politécnico Geraldo Werninghaus (CEPEG)<br>
