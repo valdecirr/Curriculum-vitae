@@ -45,122 +45,122 @@ Período: 9/2001 – 10/2003<p>
 
 ># 4. CURSOS COMPLEMENTERES 
 
-- Curso:Solidworks Módulo Peças
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 02/06/2012 À 21/07/2012 - 0030:00
+> - Curso:Solidworks Módulo Peças<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc
+> Período: 02/06/2012 À 21/07/2012 - 0030:00
 
-- Curso: Solid Works – Avançado
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 17/03/2012 À 05/05/2012 - 0030:00
+> - Curso: Solid Works – Avançado<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 17/03/2012 À 05/05/2012 - 0030:00<br>
 
-- Curso: Solid Works – Básico
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul
-Período: 20/02/2012 À 12/03/2012 - 0030:00
+> - Curso: Solid Works – Básico<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul<br>
+> Período: 20/02/2012 À 12/03/2012 - 0030:00<br>
 
-- Curso: Nr 10 - Segurança Em Instalações E Serviços Em Eletricidade
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 01/02/2010 À 26/04/2010 - 0040:00
+> - Curso: Nr 10 - Segurança Em Instalações E Serviços Em Eletricidade<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 01/02/2010 À 26/04/2010 - 0040:00<br>
 
-- Curso: Pae-Plano De Atendimento A Emergência
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 06/11/2012 À 25/11/2012 - 0002:00
+> - Curso: Pae-Plano De Atendimento A Emergência<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 06/11/2012 À 25/11/2012 - 0002:00<br>
 
-- Curso: Qualificacao Para Instrutores De Operadores De Empilhadeiras
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 28/11/2010 - 06:00
+> - Curso: Qualificacao Para Instrutores De Operadores De Empilhadeiras<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 28/11/2010 - 06:00<br>
 
-- Curso: Treinamento Nr35 – Leal
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 13/03/2013 À 13/03/2013 - 0008:00
+> - Curso: Treinamento Nr35 – Leal<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 13/03/2013 À 13/03/2013 - 0008:00<br>
 
-- Curso: Treinamento Para Operacao De Tratores - Valtra Do Brasil S/A
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul –Sc
-Período: 31/05/2011 À 31/05/2011 - 0008:00
+> - Curso: Treinamento Para Operacao De Tratores - Valtra Do Brasil S/A<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul –Sc<br>
+> Período: 31/05/2011 À 31/05/2011 - 0008:00<br>
 
-- Curso: Nocoes De Glp E Par - Ultragaz Ultrasystem
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 16/05/2011 À 16/05/2011 - 0002:00
+> - Curso: Nocoes De Glp E Par - Ultragaz Ultrasystem<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 16/05/2011 À 16/05/2011 - 0002:00<br>
 
-- Curso: Integração De Pessoal Recém Admitido
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 09/05/2011 À 09/05/2011 - 0008:00
+> - Curso: Integração De Pessoal Recém Admitido<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 09/05/2011 À 09/05/2011 - 0008:00<br>
 
-- Curso: Palestra: Programa Weg De Ergonomia – Ergosaude
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 08/04/2011 À 08/04/2011 - 0001:45
+> - Curso: Palestra: Programa Weg De Ergonomia – Ergosaude<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 08/04/2011 À 08/04/2011 - 0001:45<br>
 
-- Curso: Palestra Rud Sobre Elementos P/Movimentacao De Cargas
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 07/12/2010 À 07/12/2010 - 0003:00
+> - Curso: Palestra Rud Sobre Elementos P/Movimentacao De Cargas<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 07/12/2010 À 07/12/2010 - 0003:00<br>
 
-- Curso: Pae - Plano De Atendimento A Emergencia
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 22/06/2010 À 22/06/2010 - 0001:00
+> - Curso: Pae - Plano De Atendimento A Emergencia<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 22/06/2010 À 22/06/2010 - 0001:00<br>
 
-- Curso: Técnicas De Investigação E Análise De Acidentes E Incidentes - Dnv
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 08/06/2010 À 08/06/2010 - 0008:00
+> - Curso: Técnicas De Investigação E Análise De Acidentes E Incidentes - Dnv<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 08/06/2010 À 08/06/2010 - 0008:00<br>
 
-- Curso: Ergonomia
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Suul –Sc
-Período: 16/03/2010  À 23/03/2010  - 0024:00
+> - Curso: Ergonomia<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Suul –Sc<br>
+> Período: 16/03/2010  À 23/03/2010  - 0024:00<br>
 
-- Curso: Operador De Ponte Rolante Não Embarcada
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 19/02/2009 À 28/02/2009 - 0008:00
+> - Curso: Operador De Ponte Rolante Não Embarcada<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 19/02/2009 À 28/02/2009 - 0008:00<br>
 
-- Curso: Treinamento Apr/Pt
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 20/11/2008 À 20/11/2008  - 0002:00
+> - Curso: Treinamento Apr/Pt<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 20/11/2008 À 20/11/2008  - 0002:00<br>
 
-- Curso: Sistema De Alarme
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul - Sc
-Período: 16/09/2009 À 16/09/2009  - 0001:30
+> - Curso: Sistema De Alarme<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul - Sc<br>
+> Período: 16/09/2009 À 16/09/2009  - 0001:30<br>
 
-- Curso: O Método Da Árvore De Causas Na Investigação E Análise De Ac - Fundacentro
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 09/09/2009 À 10/09/2009 - 0015:00
+> - Curso: O Método Da Árvore De Causas Na Investigação E Análise De Ac - Fundacentro<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 09/09/2009 À 10/09/2009 - 0015:00<br>
 
-- Curso: Controle Operacional - Perigos E Riscos
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 21/10/2008 À 21/10/2008 - 0002:00
+> - Curso: Controle Operacional - Perigos E Riscos<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 21/10/2008 À 21/10/2008 - 0002:00<br>
 
-- Curso: Operador De Empilhadeira Grande Porte
-Instituição: Senai
-Cidade/Estado: Joinville – Sc
-Período: 01/03/2008 À 08/03/2008 - 0008:00
+> - Curso: Operador De Empilhadeira Grande Porte<br>
+> Instituição: Senai<br>
+> Cidade/Estado: Joinville – Sc<br>
+> Período: 01/03/2008 À 08/03/2008 - 0008:00<br>
 
-- Curso: Atividade Em Espaço Confinado
-Instituição: Weg
-Cidade/Estado:Jaraguá Do Sul – Sc
-Período: 20/11/2008 À 20/11/2008 - 0002:00
+> - Curso: Atividade Em Espaço Confinado<br>
+> Instituição: Weg<br>
+> Cidade/Estado:Jaraguá Do Sul – Sc<br>
+> Período: 20/11/2008 À 20/11/2008 - 0002:00<br>
 
-- Curso: Treinamento De Máscara De Solda Automática
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 27/10/2007 Á 27/10/2007 - 0002:00
+> - Curso: Treinamento De Máscara De Solda Automática<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 27/10/2007 Á 27/10/2007 - 0002:00<br>
 
-- Curso: Leitura E Interpretação De Desenho Técnico Mecânico
-Instituição: Weg
-Cidade/Estado: Jaraguá Do Sul – Sc
-Período: 28/07/2003 À 28/07/2003 - 0008:00
+> - Curso: Leitura E Interpretação De Desenho Técnico Mecânico<br>
+> Instituição: Weg<br>
+> Cidade/Estado: Jaraguá Do Sul – Sc<br>
+> Período: 28/07/2003 À 28/07/2003 - 0008:00<br>
