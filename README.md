@@ -3,20 +3,20 @@ CURRICULUM VITAE – AGOSTO 2020
 
 ># 1. DADOS PESSOAIS
 
-> Nome: VALDECIR RENKAVESKI<br>
-> Nascimento: 10/09/1981 – Jaraguá do Sul – SC<br>
-> Endereço Residencial: Rua José Moreira – 383 – João Pessoa – Jaraguá do Sul - SC<br>
-> Telefone: (47) 884795475<br>
-> E-mail: valdecirrk@gmail.com
+> <b>Nome:</b> VALDECIR RENKAVESKI<br>
+> <b>Nascimento:</b> 10/09/1981 – Jaraguá do Sul – SC<br>
+> <b>Endereço Residencial:</b> Rua José Moreira – 383 – João Pessoa – Jaraguá do Sul - SC<br>
+> <b>Telefone:</b> (47) 884795475<br>
+> <b>E-mail:</b> valdecirrk@gmail.com
 	
 
 ># 2. FORMAÇÃO 
 
->- Curso técnico: Técnico de Segurança do Trabalho
+>- <b>Curso técnico:</b> Técnico de Segurança do Trabalho
 Instituição: Centro Politécnico Geraldo Werninghaus (CEPEG)
 	Cidade/Estado: Jaraguá do Sul - SC
 Período: 7/2005 – 6/2007<br><br>
->- Curso técnico: Técnico em Sistemas de Informação
+>- <b>Curso técnico:</b> Técnico em Sistemas de Informação
 Instituição: Colégio NOVA ERA<br>Cidade/Estado: Jaraguá do Sul - SC
 Período: 9/2001 – 10/2003 
 
@@ -24,11 +24,11 @@ Período: 9/2001 – 10/2003
 	
 ># 3. EXPERIÊNCIA PROFISSIONAL 
 
-- Local: WEG Equipamentos Elétricos S.A.
-- Cidade/Estado: Jaraguá do Sul - SC
-- Período: Novembro/99 – data atual
-- Função: Técnico de Segurança do Trabalho
-- Atividade Desenvolvida: 
+- <b>Local:</b> WEG Equipamentos Elétricos S.A.
+- <b>Cidade/Estado:</b> Jaraguá do Sul - SC
+- <b>Período:</b> Novembro/99 – data atual
+- <b>Função:</b> Técnico de Segurança do Trabalho
+- <b>Atividade Desenvolvida:</b> 
     - Ministrar treinamento de Equipes de Emergência; 
     - Ministrar treinamento para equipes de PSS (Programa Saúde Segurança); 
     - Ministrar treinamento de ERGONOMIA; 
