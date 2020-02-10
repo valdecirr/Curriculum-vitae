@@ -21,7 +21,7 @@ Instituição: Colégio NOVA ERA<br>Cidade/Estado: Jaraguá do Sul - SC
 Período: 9/2001 – 10/2003<br> 
 <div target="_blank">
 
-> [Diploma](https://github.com/valdecirr/Curriculum-vitae/blob/master/Curriculo.pdf)
+[Diploma](https://github.com/valdecirr/Curriculum-vitae/blob/master/Curriculo.pdf)
 </div>
 
 	
