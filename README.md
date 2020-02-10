@@ -29,14 +29,14 @@ Período: 9/2001 – 10/2003
 - Período: Novembro/99 – data atual
 - Função: Técnico de Segurança do Trabalho
 - Atividade Desenvolvida: 
-    - Treinamento de Equipes de Emergência; 
-    - Treinamento para equipes de PSS (Programa Saúde Segurança); 
-    - Treinamento de ERGONOMIA; 
-    - Treinamento para operadores de Empilhadeira; 
-    - Treinamento para operadores de Ponte Rolante; 
-    - Treinamentos de percepção de risco; 
-    - Treinamento sobre utilização de EPIs; 
-    - Treinamento de APT(Análise Prevencionista da Tarefa).
+    - Ministrar treinamento de Equipes de Emergência; 
+    - Ministrar treinamento para equipes de PSS (Programa Saúde Segurança); 
+    - Ministrar treinamento de ERGONOMIA; 
+    - Ministrar treinamento para operadores de Empilhadeira; 
+    - Ministrar treinamento para operadores de Ponte Rolante; 
+    - Ministrar treinamento de percepção de risco; 
+    - Ministrar treinamento sobre utilização de EPIs; 
+    - Ministrar treinamento de APT(Análise Prevencionista da Tarefa).
 
 ># 4. CURSOS COMPLEMENTERES 
 - Curso: Solid Works Módulo Peças
