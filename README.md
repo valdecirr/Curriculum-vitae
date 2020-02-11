@@ -46,7 +46,7 @@ CURRICULUM VITAE – AGOSTO 2020
     - Ministrar treinamento sobre utilização de EPIs; 
     - Ministrar treinamento de APT(Análise Prevencionista da Tarefa).
 
-># 4. CURSOS COMPLEMENTERES 
+># 4. CURSOS COMPLEMENTARES 
 
 > - Curso:Solidworks Módulo Peças<br>
 > Instituição: Weg<br>
