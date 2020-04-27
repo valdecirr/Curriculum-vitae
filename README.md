@@ -6,7 +6,7 @@ CURRICULUM VITAE – AGOSTO 2020
 > <b>Nome:</b> VALDECIR RENKAVESKI<br>
 > <b>Nascimento:</b> 10/09/1981 – Jaraguá do Sul – SC<br>
 > <b>Endereço Residencial:</b> Rua José Moreira – 383 – João Pessoa – Jaraguá do Sul - SC<br>
-> <b>Telefone:<i style="color: 25d366;" class="fab fa-whatsapp"></i></b> (47) 984795475<br>
+> <b>Telefone:</b> (47) 98479-5475<br>
 > <b>E-mail:</b> valdecirrk@gmail.com
 	
 
