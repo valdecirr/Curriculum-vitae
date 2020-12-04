@@ -17,9 +17,14 @@ CURRICULUM VITAE – JUNHO/2020
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
 <b>Período:</b> 2ª/6ª Fase Superior<br>	
 
+>- <b>Curso:</b> Desenvolvedor Web<br>
+<b>Plantaforma de Ensino:</b> Udemy <br>
+<b>Modalidade:</b> Online<br>
+<b>Período:</b> 46 horas <br>	
+
 >- <b>Curso técnico:</b> Técnico de Segurança do Trabalho<br>
 <b>Instituição:</b> Centro Politécnico Geraldo Werninghaus (CEPEG)<br>
-	<b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
+<b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
 <b>Período:</b> 7/2005 – 6/2007<br>	
 > [Diploma Técnico de Segurança](https://github.com/valdecirr/Curriculum-vitae/blob/master/TecnicoSeg.pdf)
 
