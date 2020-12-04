@@ -21,6 +21,7 @@ CURRICULUM VITAE – JUNHO/2020
 <b>Plantaforma de Ensino:</b> Udemy <br>
 <b>Modalidade:</b> Online<br>
 <b>Período:</b> 46 horas <br>	
+> [Diploma curso Desenvolvedor Web](https://github.com/valdecirr/Curriculum-vitae/blob/master/Certificado%20Curso%20Online.pdf)
 
 >- <b>Curso técnico:</b> Técnico de Segurança do Trabalho<br>
 <b>Instituição:</b> Centro Politécnico Geraldo Werninghaus (CEPEG)<br>
