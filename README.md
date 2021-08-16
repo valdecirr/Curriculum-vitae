@@ -15,7 +15,7 @@ CURRICULUM VITAE – JANEIRO/2021
 >- <b>Cursando:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
 <b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
-<b>Período:</b> 3ª/6ª Fase Superior<br>	
+<b>Período:</b> 5ª/6ª Fase Superior<br>	
 
 >- <b>Curso:</b> Desenvolvedor Web<br>
 <b>Plantaforma de Ensino:</b> Udemy <br>
