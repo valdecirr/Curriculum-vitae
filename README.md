@@ -14,7 +14,7 @@ CURRICULUM VITAE – OUTUBRO/2021
 
 >- <b>Cursando:</b> Inglês<br>
 <b>Instituição:</b> WISE UP<br>
-<b>Cidade/Estado:</b> Online<br>
+<b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
 <b>Período:</b> 1 ano<br>	 
 
 >- <b>Cursando:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
