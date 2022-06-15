@@ -1,4 +1,4 @@
-CURRICULUM VITAE – OUTUBRO/2021
+CURRICULUM VITAE – JUNHO/2022
 
 
 ># 1. DADOS PESSOAIS
@@ -48,6 +48,9 @@ CURRICULUM VITAE – OUTUBRO/2021
 - <b>Período:</b> Novembro/99 – data atual
 - <b>Função:</b> Técnico de Segurança do Trabalho
 - <b>Atividade Desenvolvida:</b> 
+    - Criar ferramentas em ambientes WEB;
+    - Criar base de Dados utilizando a ferramenta SharePoint com integrações Front-End e Back-End;
+    - Análise de dados com a utilização da ferramenta PowerBI;
     - Ministrar treinamento de Equipes de Emergência; 
     - Ministrar treinamento para equipes de PSS (Programa Saúde Segurança); 
     - Ministrar treinamento de ERGONOMIA; 
