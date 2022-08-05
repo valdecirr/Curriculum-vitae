@@ -50,7 +50,9 @@ CURRICULUM VITAE – JUNHO/2022
 - <b>Atividade Desenvolvida:</b> 
     - Criar ferramentas em ambientes WEB;
     - Criar base de Dados utilizando a ferramenta SharePoint com integrações Front-End e Back-End;
-    - Análise de dados com a utilização da ferramenta PowerBI;
+    - Análise de dados com a utilização da ferramenta PowerBI, Tableau;
+    - Construção e apresentação de indicadores utilizando bicliotecas Google Charts,Chart.js, ApexCharts entre outros;
+    - Construção WEB de ferramentas de análise ergonômicas;
     - Ministrar treinamento de Equipes de Emergência; 
     - Ministrar treinamento para equipes de PSS (Programa Saúde Segurança); 
     - Ministrar treinamento de ERGONOMIA; 
