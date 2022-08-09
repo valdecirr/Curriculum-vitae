@@ -17,10 +17,11 @@ CURRICULUM VITAE – JULHO/2022
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
 <b>Período:</b> 1 ano<br>	 
 
->- <b>Cursando:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
+>- <b>Curso:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
 <b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
 <b>Período:</b> 6ª/6ª Fase Superior<br>	
+> [Diploma curso Tecnologia e Análise de Desenvolvimento de Sistemas](https://github.com/valdecirr/Curriculum-vitae/blob/master/Diploma.pdf)
 
 >- <b>Curso:</b> Desenvolvedor Web<br>
 <b>Plantaforma de Ensino:</b> Udemy <br>
