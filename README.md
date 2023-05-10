@@ -12,10 +12,10 @@ CURRICULUM VITAE – JAN/2023
 
 ># 2. FORMAÇÃO 
 
->- <b>Cursando:</b> Inglês<br>
-<b>Instituição:</b> WISE UP<br>
+>- <b>Cursando:</b> Pós-Graduação em Ciência de Dados<br>
+<b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
-<b>Período:</b> 1 ano<br>	 
+<b>Período:</b> 7 meses<br>	 
 
 >- <b>Curso:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
 <b>Instituição:</b> UNIASSELVI<br>
