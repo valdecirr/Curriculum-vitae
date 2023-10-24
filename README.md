@@ -16,7 +16,7 @@ CURRICULUM VITAE – JAN/2023
 <b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
 <b>Período:</b> 01 de Março de 2023 a 31 de Agosto de 2023<br>
-> [Diploma curso Ciência de Dados]()
+> [Diploma curso Ciência de Dados](https://github.com/valdecirr/Curriculum-vitae/blob/master/Ciencia%20de%20Dados.pdf)
 
 >- <b>Curso:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
 <b>Instituição:</b> UNIASSELVI<br>
