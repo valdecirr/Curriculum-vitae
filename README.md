@@ -45,7 +45,7 @@ CURRICULUM VITAE – OUT/2023
 	
 ># 3. EXPERIÊNCIA PROFISSIONAL 
 
-- <b>Local:</b> WEG Equipamentos Elétricos S.A.
+- <b>Local:</b> WEG Equipamentos Elétricos S.A
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
 - <b>Período:</b> Novembro/99 – data atual
 - <b>Função:</b> Técnico de Segurança do Trabalho
