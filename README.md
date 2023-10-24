@@ -15,13 +15,13 @@ CURRICULUM VITAE – OUT/2023
 >- <b>Cursando:</b> Pós-Graduação em Ciência de Dados<br>
 <b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
-<b>Período:</b> 01 de Março de 2023 a 31 de Agosto de 2023<br>
+<b>Período:</b> 03/2023 - 08/2023<br>
 > [Diploma curso Ciência de Dados](https://github.com/valdecirr/Curriculum-vitae/blob/master/Ciencia%20de%20Dados.pdf)
 
 >- <b>Curso:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
 <b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
-<b>Período:</b> 8/2019 - 07/2022<br>	
+<b>Período:</b> 08/2019 - 07/2022<br>	
 > [Diploma curso Tecnologia e Análise de Desenvolvimento de Sistemas](https://github.com/valdecirr/Curriculum-vitae/blob/master/Diploma.pdf)
 
 >- <b>Curso:</b> Desenvolvedor Web<br>
@@ -33,13 +33,13 @@ CURRICULUM VITAE – OUT/2023
 >- <b>Curso técnico:</b> Técnico de Segurança do Trabalho<br>
 <b>Instituição:</b> Centro Politécnico Geraldo Werninghaus (CEPEG)<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
-<b>Período:</b> 7/2005 – 6/2007<br>	
+<b>Período:</b> 07/2005 – 06/2007<br>	
 > [Diploma Técnico de Segurança](https://github.com/valdecirr/Curriculum-vitae/blob/master/TecnicoSeg.pdf)
 
 >- <b>Curso técnico:</b> Técnico em Sistemas de Informação<br>
 <b>Instituição:</b> Colégio NOVA ERA<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
-<b>Período:</b> 9/2001 – 10/2003<br>	
+<b>Período:</b> 09/2001 – 10/2003<br>	
 > [Diploma Sistemas de Informação](https://github.com/valdecirr/Curriculum-vitae/blob/master/Curriculo.pdf)
 
 	
