@@ -1,4 +1,4 @@
-CURRICULUM VITAE – JAN/2023
+CURRICULUM VITAE – OUT/2023
 
 
 ># 1. DADOS PESSOAIS
@@ -6,7 +6,7 @@ CURRICULUM VITAE – JAN/2023
 > <b>Nome:</b> VALDECIR RENKAVESKI<br>
 > <b>Nascimento:</b> 10/09/1981 – Jaraguá do Sul – SC<br>
 > <b>Endereço Residencial:</b> Rua José Moreira – 383 – João Pessoa – Jaraguá do Sul - SC<br>
-> <b>Telefone e WatsApp Business:</b> (47) 98479-5475<br>
+> <b>Telefone e WatsApp Business:</b> (47) 98855-7946<br>
 > <b>E-mail:</b> valdecirrk@gmail.com
 	
 
