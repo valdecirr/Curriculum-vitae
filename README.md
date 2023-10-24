@@ -51,7 +51,8 @@ CURRICULUM VITAE – OUT/2023
 - <b>Função:</b> Técnico de Segurança do Trabalho
 - <b>Atividade Desenvolvida:</b> 
     - Criar ferramentas em ambientes WEB;
-    - Criar base de Dados utilizando a ferramenta SharePoint com integrações Front-End e Back-End;
+    - Criar base de Dados utilizando SharePoint365 com integrações Front-End e Back-End;
+    - Desenvolvimento de webparts utilizando Node, TypeScript;
     - Análise de dados com a utilização da ferramenta PowerBI, Tableau;
     - Construção e apresentação de indicadores utilizando bicliotecas Google Charts,Chart.js, ApexCharts entre outros;
     - Construção WEB de ferramentas de análise ergonômicas;
