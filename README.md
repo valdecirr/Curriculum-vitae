@@ -48,7 +48,8 @@ CURRICULUM VITAE – OUT/2023
 - <b>Local:</b> WEG Equipamentos Elétricos S.A
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
 - <b>Período:</b> Novembro/99 – data atual
-- <b>Função:</b> Técnico de Segurança do Trabalho
+- <b>Função:</b> Instrutor de Sistemas de Informação
+- <b>Onde:</b> CentroWEG
 - <b>Atividade Desenvolvida:</b> 
     - Criar ferramentas em ambientes WEB;
     - Criar base de Dados utilizando SharePoint365 com integrações Front-End e Back-End;
