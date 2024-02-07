@@ -1,4 +1,4 @@
-CURRICULUM VITAE – DEZ/2023
+CURRICULUM VITAE – FEV/2024
 
 
 ># 1. DADOS PESSOAIS
@@ -47,7 +47,7 @@ CURRICULUM VITAE – DEZ/2023
 
 - <b>Local:</b> WEG Equipamentos Elétricos S.A
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
-- <b>Período:</b> Novembro/99 – data atual
+- <b>Período:</b> Novembro/99 – 01/02/2024
 - <b>Função:</b> Instrutor de Treinamento de Sistemas de Informação
 - <b>Onde:</b> CentroWEG
 - <b>Atividade Desenvolvida:</b> 
