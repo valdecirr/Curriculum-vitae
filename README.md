@@ -47,7 +47,7 @@ CURRICULUM VITAE – FEV/2024
 
 - <b>Local:</b> WEG Equipamentos Elétricos S.A
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
-- <b>Período:</b> Novembro/99 – 01/02/2024
+- <b>Período:</b> Novembro/99 – Fevereiro/2024
 - <b>Função:</b> Instrutor de Treinamento de Sistemas de Informação
 - <b>Onde:</b> CentroWEG
 - <b>Atividade Desenvolvida:</b> 
