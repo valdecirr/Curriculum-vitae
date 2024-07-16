@@ -54,7 +54,7 @@ CURRICULUM VITAE – FEV/2024
     - Criar ferramentas em ambientes WEB;
     - Criar base de Dados utilizando SharePoint365 com integrações Front-End e Back-End;
     - Desenvolvimento de webparts utilizando Node, TypeScript;
-    - Análise de dados com a utilização da ferramenta PowerBI, Tableau;
+    - Análise de dados com a utilização da ferramenta PowerBI, Tableau, Python,VBA;
     - Construção e apresentação de indicadores utilizando bicliotecas Google Charts,Chart.js, ApexCharts entre outros;
     - Construção WEB de ferramentas de análise ergonômicas;
     - Ministrar treinamento de Equipes de Emergência; 
