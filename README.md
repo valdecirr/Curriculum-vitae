@@ -52,6 +52,7 @@ CURRICULUM VITAE – JUL/2024
 - <b>Onde:</b> CentroWEG
 - <b>Atividade Desenvolvida:</b> 
     - Criar ferramentas em ambientes WEB;
+    - Instrutor de Excel VBA;
     - Criar base de Dados utilizando SharePoint365 com integrações Front-End e Back-End;
     - Desenvolvimento de webparts utilizando Node, TypeScript;
     - Análise de dados com a utilização da ferramenta PowerBI, Tableau, Python,VBA;
