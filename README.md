@@ -1,4 +1,4 @@
-CURRICULUM VITAE – ABRIL/2025
+CURRICULUM VITAE – AGOSTO/2025
 
 
 ># 1. DADOS PESSOAIS
@@ -18,7 +18,7 @@ CURRICULUM VITAE – ABRIL/2025
 <b>Período:</b> 03/2023 - 08/2023<br>
 > [Diploma curso Ciência de Dados](https://github.com/valdecirr/Curriculum-vitae/blob/master/Ciencia%20de%20Dados.pdf)
 
->- <b>Curso:</b> Tecnologia e Análise de Desenvolvimento de Sistemas<br>
+>- <b>Curso:</b> Tecnologia em Análise de Desenvolvimento de Sistemas<br>
 <b>Instituição:</b> UNIASSELVI<br>
 <b>Cidade/Estado:</b> Jaraguá do Sul - SC<br>
 <b>Período:</b> 08/2019 - 07/2022<br>	
