@@ -9,6 +9,7 @@ CURRICULUM VITAE – AGOSTO/2025
 > <b>Telefone e WatsApp Business:</b> (47) 98855-7946<br>
 > <b>E-mail:</b> valdecirrk@gmail.com
 	
+<hr>
 
 ># 2. FORMAÇÃO 
 
@@ -42,8 +43,17 @@ CURRICULUM VITAE – AGOSTO/2025
 <b>Período:</b> 09/2001 – 10/2003<br>	
 > [Diploma Sistemas de Informação](https://github.com/valdecirr/Curriculum-vitae/blob/master/Curriculo.pdf)
 
-	
+<hr>
+
 ># 3. EXPERIÊNCIA PROFISSIONAL 
+
+- <b>Local:</b> BOLD
+- <b>Cidade/Estado:</b> Jaraguá do Sul - SC
+- <b>Período:</b> Agosto/25
+- <b>Função:</b> Operador de Usinagem
+- <b>Onde:</b> Centro de Usinagem
+- 
+<hr>
 
 - <b>Local:</b> WEG Equipamentos Elétricos S.A
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
@@ -66,6 +76,8 @@ CURRICULUM VITAE – AGOSTO/2025
     - Ministrar treinamento de percepção de risco; 
     - Ministrar treinamento sobre utilização de EPIs; 
     - Ministrar treinamento de APT(Análise Prevencionista da Tarefa).
+      
+<hr>
 
 ># 4. CURSOS COMPLEMENTARES 
 
