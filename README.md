@@ -52,7 +52,7 @@ CURRICULUM VITAE – AGOSTO/2025
 - <b>Período:</b> Agosto/25
 - <b>Função:</b> Operador de Usinagem
 - <b>Onde:</b> Centro de Usinagem
-- 
+  
 <hr>
 
 - <b>Local:</b> WEG Equipamentos Elétricos S.A
