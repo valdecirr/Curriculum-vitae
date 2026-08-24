@@ -49,7 +49,7 @@ CURRICULUM VITAE – JANEIRO/2026
 
 - <b>Local:</b> BOLD
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
-- <b>Período:</b> Agosto/25
+- <b>Período:</b> Agosto/26
 - <b>Função:</b> Técnico de Segurança do Trabalho
 - <b>Onde:</b> RH
   
@@ -57,7 +57,7 @@ CURRICULUM VITAE – JANEIRO/2026
 
 - <b>Local:</b> BOLD
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
-- <b>Período:</b> 04/Agosto/25 - 18/Agosto/2026
+- <b>Período:</b> 04/Agosto/25 - 18/Agosto/26
 - <b>Função:</b> Operador de Usinagem
 - <b>Onde:</b> Centro de Usinagem
 
