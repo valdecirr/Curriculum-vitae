@@ -50,9 +50,17 @@ CURRICULUM VITAE – JANEIRO/2026
 - <b>Local:</b> BOLD
 - <b>Cidade/Estado:</b> Jaraguá do Sul - SC
 - <b>Período:</b> Agosto/25
+- <b>Função:</b> Técnico de Segurança do Trabalho
+- <b>Onde:</b> RH
+  
+<hr>
+
+- <b>Local:</b> BOLD
+- <b>Cidade/Estado:</b> Jaraguá do Sul - SC
+- <b>Período:</b> 04/Agosto/25 - 18/Agosto/2026
 - <b>Função:</b> Operador de Usinagem
 - <b>Onde:</b> Centro de Usinagem
-  
+
 <hr>
 
 - <b>Local:</b> WEG Equipamentos Elétricos S.A
